@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prediction of Boston housing prices"
+title: "Prediction of Boston housing prices"
 date:   2024-01-13 21:03:36 +0530
 categories: Python scikit-learn
 ---
