@@ -3,7 +3,10 @@
 
 title:  "Analysis of an Boston housing dataset"
 date: "2023-11-03 20:20:10 +09:00"
-
+categories:
+  - Post Formats
+tags:
+  - Python
 ---
 
 ```python
