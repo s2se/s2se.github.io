@@ -1,3 +1,7 @@
+
+---
+title:  Analysis of an Boston housing dataset
+date: 2023-11-03 20:20:10 +09:00
 ## Analysis of an Boston housing datasetDataset Part 4 (s2 2023)
 46282858 Sangeun Lee
 
@@ -1647,6 +1651,4 @@ print("Test RMSE:%.4f" % test_rmse)
 
 
 
-```python
-
-```
+---
