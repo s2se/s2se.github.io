@@ -66,6 +66,32 @@ ds.head()
 
 <img width="963" alt="Screenshot 2025-01-08 at 2 51 14 PM" src="https://github.com/user-attachments/assets/23470305-537d-4756-8b5f-d5b79462b01b" />  
 
+To creative an efficient model, standardization was applied.  
 
 
+```python
+from sklearn.model_selection import train_test_split
+from sklearn import linear_model
+from sklearn.metrics import r2_score,mean_squared_error
+from sklearn.feature_selection import RFE
+
+reg = linear_model.LinearRegression()
+
+train, test = train_test_split(ds, test_size=0.2, random_state=142)
+X_train = train.drop(['MEDV'], axis=1)
+y_train = train['MEDV']
+X_test = test.drop(['MEDV'], axis=1)
+y_test = test['MEDV']
+
+from statsmodels.stats.outliers_influence import variance_inflation_factor
+
+vif = pd.DataFrame()
+vif['features'] = X_train.columns
+vif["VIF Factor"] = [variance_inflation_factor(X_train.values, i) for i in range(X_train.shape[1])]
+vif.round(1)
+```  
+
+Let's check for multicollinearity to evaluate the correlation between each independent variable.  
+<img width="161" alt="Screenshot 2025-01-08 at 3 14 18 PM" src="https://github.com/user-attachments/assets/26e8bad5-a060-438e-a79c-a7a32b10ffae" />  
+The two variables, Rad and Tax (8.1, 9.6), exhibit high multicollinearity. These variables can either be removed or handled using PCA.  
 
