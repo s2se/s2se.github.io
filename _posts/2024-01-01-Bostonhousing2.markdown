@@ -9,6 +9,7 @@ categories: [Project, Python]
 ## Description  
 
 + The purpose
+    - For predicting Boston house prices, a linear regression model was used to understand the relationship between variables.
     - From the previous analysis, I noticed some shortcomings and decided to redo it, particularly addressing the lack of outlier analysis. 
     - Given Boston's environmental characteristics, such as the higher proportion of Black residents and the clear disparities in housing prices and income by race, the importance of variable B increases. Therefore, I plan to consider removing outliers of variables that have minimal impact on other factors.
     - Additionally, I will create histograms for the data to assess how each variable influences the dependent variable, aiming to achieve more accurate analysis results.   
