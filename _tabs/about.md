@@ -24,7 +24,7 @@ Hello, everyone! Thank you for visiting my page. I feel very fortunate to have f
 
 ## Contacting me here
 <div>
-    <a href="https://github.com/user-attachments/files/17599169/SangeunLee_Resume4.pdf"><img src="https://github.com/user-attachments/assets/59b532af-cea1-4ad8-8247-77032d896a0a" width="180" style="float: left;" alt="resume"></a>
+    <a href="https://github.com/user-attachments/files/18809501/Sangeun_Lee_Resume.pdf"><img src="https://github.com/user-attachments/assets/59b532af-cea1-4ad8-8247-77032d896a0a" width="180" style="float: left;" alt="resume"></a>
     <a href="https://www.linkedin.com/in/sangeun-lee-28ba012a1/"><img src="https://github.com/user-attachments/assets/790e630c-4108-46f2-83d4-bb27541e92aa" width="180" style="float: left;" alt="LinkedIn"></a>
     <a href="mailto:shangeuny@gmail.com"><img src="https://github.com/user-attachments/assets/7c1de909-8537-4e46-ba0e-4e59807c36e5" width="180" style="float: left;" alt="mail"></a>
 </div>
