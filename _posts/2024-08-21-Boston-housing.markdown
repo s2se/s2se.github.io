@@ -1,9 +1,7 @@
 ---
-layout: post
-title:  "[Project] Analysis of Boston housing dataset"
-date:   2024-08-21 21:03:36 +0900
-categories: [Project, Python]
-
+title: 블로그형 게시물
+tags: [python]
+author: LAUREN
 ---
 
 ## Description  
