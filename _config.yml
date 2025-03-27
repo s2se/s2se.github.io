@@ -2,6 +2,7 @@ title: Lauren
 description: >-
   Hello my name is Lauren
 url: "https://s2se.github.io"
+baseurl: "/hyde"
 github: s2se
 email: shangeuny@gmail.com
 google_analytics: "UA_TOKEN"
