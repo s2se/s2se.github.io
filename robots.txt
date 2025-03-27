@@ -1,1 +1,1 @@
-Sitemap: https://chemistryx.me/sitemap.xml
+Sitemap: https://s2se.github.io.xml
