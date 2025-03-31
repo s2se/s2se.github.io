@@ -2,7 +2,7 @@ title: Lauren
 description: >-
   Hi, This is Lauren
 url: "https://s2se.github.io"
-baseurl: "/hyde"
+#baseurl: "/hyde"
 github: s2se
 email: shangeuny@gmail.com
 google_analytics: "UA_TOKEN"
@@ -11,7 +11,7 @@ exclude: [README.md, Gemfile, Gemfile.lock]
 
 comments:
   enabled: true
-  repo: "REPO_COMMENTS_PATH"
+  repo: "s2se/s2se.github.io"
   issue-term: pathname
 
 collections:
