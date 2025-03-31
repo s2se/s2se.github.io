@@ -1,11 +1,10 @@
-title: Hyde
+title: Lauren
 description: >-
-  Build your own portfolio <br>
-  with Hyde.
+  Hi, This is Lauren
 url: "https://s2se.github.io"
 baseurl: "/hyde"
-github: ChemistryX
-email: changeme@chemistryx.me
+github: s2se
+email: shangeuny@gmail.com
 google_analytics: "UA_TOKEN"
 
 exclude: [README.md, Gemfile, Gemfile.lock]
