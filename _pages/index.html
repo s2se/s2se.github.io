@@ -7,14 +7,14 @@ visible: false
 ---
 
 <style>
-  /* Set all text color to white */
-  .hyde {
-    color: white;
+  /* 전체 hyde 안 텍스트를 흰색으로 */
+  .hyde * {
+    color: white !important;
   }
 
-  /* Make the job title "Data Analyst" bold */
+  /* "Data Analyst"를 굵게 */
   .name-title .job-title {
-    font-weight: bold;
+    font-weight: bold !important;
   }
 </style>
 
@@ -25,7 +25,7 @@ visible: false
     <a href="{{ site.baseurl }}/about" class="hyde btn btn-light">start exploring</a>
   </div>
 
-  <<div class="hyde content about">
+  <div class="hyde content about">
     <h2 class="name-title">Lauren <small class="job-title">Data Analyst</small></h2>
     
     <p class="about-text">
