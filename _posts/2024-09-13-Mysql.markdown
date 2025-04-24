@@ -1,0 +1,37 @@
+---
+title: Link with Java
+tags:  [mySQL] [Java] 
+author: Sangeun
+---
+
+## Link between Mysql and Java
+
+1. Download Connector/J from this [Website](https://dev.mysql.com/downloads/)
+2. Select platform independent  
+<img width="985" alt="Screenshot 2024-09-13 at 7 48 44 PM" src="https://github.com/user-attachments/assets/06835f6c-f9c5-4d83-88bb-e946e1e98fb1">  
+
+3. Download this file : Platform Independent (Architecture Independent), ZIP Archive
+4. From that folder, copy this file > mysql-connector-j-9.0.0.jar and paste in jdk library
+<img width="1387" alt="Screenshot 2024-09-13 at 8 03 45 PM" src="https://github.com/user-attachments/assets/ddbd9748-a63d-4c80-bb15-37852d4b0fda">
+
+5. Make a project with Web
+<img width="592" alt="Screenshot 2024-09-13 at 8 07 57 PM" src="https://github.com/user-attachments/assets/d387cd48-a107-480b-b68a-f348d3bb623a">
+
+6. Go to Build path from project, and select add external JARs
+<img width="981" alt="Screenshot 2024-09-13 at 8 10 08 PM" src="https://github.com/user-attachments/assets/d1f07c21-b735-44c1-8b24-e883573111c4">
+
+7. Find the mysql-connector-j-9.0.0.jar file from jdk library and apply and close
+8. Go to ecliipse and clike right button on project.
+9. select properties.
+10. Click Deployment Assembly and click add
+<img width="611" alt="Screenshot 2024-09-14 at 3 57 28 PM" src="https://github.com/user-attachments/assets/56fc9542-86bd-41e8-998d-7ebd5de34a1a">
+
+11. Click Java build path and select "mysql-connector"
+<img width="579" alt="Screenshot 2024-09-14 at 3 57 41 PM" src="https://github.com/user-attachments/assets/e243f1cd-d6f3-4dcd-9e4b-a5a301915a24">
+<img width="577" alt="Screenshot 2024-09-14 at 3 57 50 PM" src="https://github.com/user-attachments/assets/df26549c-31a8-421d-ade1-a577b953e47f">
+
+
+ 
+
+
+

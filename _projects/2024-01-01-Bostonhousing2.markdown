@@ -1,6 +1,6 @@
 ---
 title: Updated Analysis of Boston housing dataset
-description: 
+description: Python
 date: 2025-01-01 21:03:36 +0900
 
 ---

@@ -1,0 +1,65 @@
+---
+title: Analyzing data for each FIFA team
+description: PowerBI
+date:   2024-11-04 21:03:36 +0900
+---
+
+## Understanding Team Strategy in FIFA  
+<img width="957" alt="Screenshot 2024-11-14 at 11 26 34 PM" src="https://github.com/user-attachments/assets/54a1b0af-77e2-4f51-8391-07117950a774">  
+
+### Description  
+1. To analyze and understand a team's strategy in FIFA based on the data provided Kaggle.  
+[Dataset_from_Kaggle](https://www.kaggle.com/datasets/moradi/fifa-stats)  
+2. Using Tool: PowerBI  
+3. Assumption: This analysis can reveal whether younger teams tend to have stronger attack stats due to their agility and speed, while older teams may have higher overall ratings due to more experience.  
+
+
+### Visualization
+
+<img width="959" alt="Screenshot 2024-11-10 at 5 05 49 PM" src="https://github.com/user-attachments/assets/7075b5a0-cc30-41e3-9842-83755707c62c">
+
+### Analyzing overall score by age groups
+To build this graph, created this table to group the ages. Here is the code:  
+
+```PowerBI
+Age Group = 
+SWITCH(
+    TRUE(),
+    'Table'[Whole team average age] >= 0 && 'Table'[Whole team average age] < 20, "0-20",
+    'Table'[Whole team average age] >= 20 && 'Table'[Whole team average age] < 21, "20-21",
+    'Table'[Whole team average age] >= 21 && 'Table'[Whole team average age] < 22, "21-22",
+    'Table'[Whole team average age] >= 22 && 'Table'[Whole team average age] < 23, "22-23",
+    'Table'[Whole team average age] >= 23 && 'Table'[Whole team average age] < 24,"23-24",
+    'Table'[Whole team average age] >= 24 && 'Table'[Whole team average age] < 25, "24-25",
+    'Table'[Whole team average age] >= 25 && 'Table'[Whole team average age] < 26, "25-26",
+    "26+"
+)
+```
+
+
+<img width="1440" alt="fifa1" src="https://github.com/user-attachments/assets/741a43d1-69d6-4a29-9b79-653345931906">
+
+### Analyzing a team' attacking strength by age
+The age group between 24 and 26 years old shows relatively higher attacking strength. However, a higher overall score does not necessarily correlate with a higher attack rating. Teams with strong attacking power tend to have overall scores ranging between 60 and 80.  
+
+<img width="1440" alt="fifa2" src="https://github.com/user-attachments/assets/08ca48ba-f24b-49c5-a1b5-4e54b1e397c5">
+
+### Analyzing a team's passing performance by age  
+
+To build this graph, created this table to group the ages. Here is the code:  
+
+The result couldn't be obtained properly due to the data size being too large, so a **logarithmic scale** is being used instead.  
+1) As the average age increases, players are more likely to engage in aggressive play.  
+2) Older players are also more inclined to play with greater structure, and they are less affected by external pressures or challenges during the game.  
+
+For example, Kylian Mbappé, who is ranked first in the FIFA rankings, was born in 1998. The second player, Rodri, was born in 1996.
+
+
+
+```PowerBI
+
+worthCopy = 
+     VAR CleanText = SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE([Club worth], "€", ""), "K", "e3"), "M", "e6"), "B", "e9")
+    RETURN VALUE(CleanText)
+
+```
