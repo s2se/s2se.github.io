@@ -1,5 +1,5 @@
 ---
-title: List Comprehension"
+title: List Comprehension
 tags: [Python]
 author: Sangeun
 ---

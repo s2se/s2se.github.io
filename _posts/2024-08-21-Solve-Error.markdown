@@ -1,5 +1,5 @@
 ---
-title:  Solving encoding Error
+title: Solving encoding Error
 tags:  [python] 
 author: Sangeun
 ---
