@@ -1,7 +1,6 @@
 ---
 title: Projcet
-description: Analysis of Boston housing dataset
-image: House.jpg
+description: Analysis of Boston housing dataset 
 date: 2024-08-21 21:03:36 +0900
 ---
 
