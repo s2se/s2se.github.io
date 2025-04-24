@@ -1,6 +1,6 @@
 ---
-title: Projcet
-description: Updated Analysis of Boston housing dataset
+title: Updated Analysis of Boston housing dataset
+description: 
 date: 2025-01-01 21:03:36 +0900
 
 ---
