@@ -57,7 +57,7 @@ Understanding ticket distribution by topic can help support teams prioritize rec
 
 ![Executive Summary]({{ '/assets/images/projects/Practice_page-0001.jpg' | relative_url }})
 
->
+
 
 ---
 
