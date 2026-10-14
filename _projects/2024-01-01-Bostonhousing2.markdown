@@ -93,6 +93,6 @@ vif.round(1)
 ```  
 
 Let's check for multicollinearity to evaluate the correlation between each independent variable.  
-<img width="161" alt="Screenshot 2025-01-08 at 3 14 18 PM" src="https://github.com/user-attachments/assets/26e8bad5-a060-438e-a79c-a7a32b10ffae" />  
+<img width="900" alt="Screenshot 2025-01-08 at 3 14 18 PM" src="https://github.com/user-attachments/assets/26e8bad5-a060-438e-a79c-a7a32b10ffae" />  
 The two variables, Rad and Tax (8.1, 9.6), exhibit high multicollinearity. These variables can either be removed or handled using PCA.  
 
