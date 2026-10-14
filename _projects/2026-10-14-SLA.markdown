@@ -1,0 +1,156 @@
+---
+title: Service Performance Intelligence Dashboard
+description: PowerBI
+date: 2026-10-12 21:03:36 +0900
+
+---
+
+
+# Service Performance Intelligence Dashboard
+
+**Tools:** Power BI  
+**Category:** Business Intelligence, Data Analytics, Customer Service Analytics  
+
+## Project Overview
+
+Developed an interactive Power BI dashboard to analyze customer service performance, monitor Service Level Agreement (SLA) compliance, and evaluate support team efficiency.
+
+The dashboard consists of four analytical views:
+
+1. Executive Summary
+2. Service Level Agreement (SLA)
+3. Agent Performance Review
+4. Performance Comparison
+
+### Project Objectives
+
+- Monitor customer support volume and operational efficiency.
+- Evaluate SLA compliance across ticket categories and geographical regions.
+- Analyze agent productivity and customer satisfaction (CSAT).
+- Identify performance gaps and operational bottlenecks.
+- Support data-driven decision-making through interactive dashboards.
+
+---
+
+## 01. Executive Summary
+
+**Focus:** Customer Support Operations & KPI Monitoring
+
+### Key Insights
+
+- **2,330 total tickets** were recorded, with **1,173 closed tickets**.
+- Average first response time was **0.15 hours**.
+- Average resolution time was **0.94 days**.
+- Product setup (**27.04%**) and pricing and licensing (**22.53%**) accounted for nearly half of all support requests.
+- First response SLA compliance reached **86.65%**, compared with **66.39%** for one-day resolution SLA compliance.
+
+### Business Insights
+
+The difference between first response and resolution SLA compliance highlights a potential gap between initial responsiveness and issue resolution efficiency.
+
+Understanding ticket distribution by topic can help support teams prioritize recurring issues and improve resource allocation.
+
+## 01. Executive Summary
+![Executive Summary](images/projects/Practice_page-0001.jpg)
+
+---
+
+## 02. Service Level Agreement (SLA)
+
+**Focus:** SLA Compliance & Service Quality
+
+### Key Insights
+
+- First response SLA compliance reached **86.65%**.
+- One-day resolution SLA compliance was **66.39%**.
+- Training requests recorded the lowest resolution SLA compliance at **57.58%**.
+- Bulgaria achieved the highest resolution SLA compliance among the displayed countries at **74.05%**.
+- Monthly resolution SLA compliance declined from **76.34% in January** to **60.23% in December**.
+
+### Business Insights
+
+The analysis identifies variations in SLA compliance across ticket categories and geographical regions.
+
+Monitoring these differences can help businesses identify potential service bottlenecks and prioritize operational improvements.
+
+## 02. SLA Performance
+![SLA Performance](images/projects/Practice_page-0002.jpg)
+
+---
+
+## 03. Agent Performance Review
+
+**Focus:** Agent Productivity, CSAT & Resolution Efficiency
+
+### Key Insights
+
+- **Nicola Wane** handled the highest ticket volume, with **367 tickets**.
+- **Connor Danielovitch** achieved the highest CSAT score of **4.07**.
+- Despite achieving the highest CSAT score, Connor recorded a resolution SLA compliance rate of **61.67%**.
+- SLA performance varied between first-line and second-line support teams.
+
+### Business Insights
+
+Ticket volume alone does not fully represent individual agent performance.
+
+Combining productivity, customer satisfaction, and SLA compliance provides a more balanced approach to evaluating service quality.
+
+This analysis can support targeted coaching, workload management, and performance improvement initiatives.
+
+
+## 03. Agent Performance
+![Agent Performance](images/projects/Practice_page-0003.jpg)
+
+
+---
+
+## 04. Performance Comparison
+
+**Focus:** Period-over-Period Operational Performance
+
+### Key Insights
+
+- First response SLA compliance was **86.65%**, compared with **86.82%** in the previous period.
+- Resolution SLA compliance decreased slightly from **66.90% to 66.39%**.
+- Average response time remained at **0.02 days** across the displayed periods.
+- Average resolution time remained at **0.94 days**.
+- Country-level comparisons highlighted differences in SLA compliance and CSAT scores.
+
+### Business Insights
+
+Period-over-period comparisons provide visibility into changes in customer support efficiency and service quality.
+
+These insights help stakeholders monitor performance trends, identify emerging issues, and make informed operational decisions.
+
+## 04. Performance Comparison
+![Performance Comparison](images/projects/Practice_page-0004.jpg)
+
+---
+
+## Skills Demonstrated
+
+### Technical Skills
+
+- **Power BI** — Interactive Dashboard Development
+- **Data Visualization** — KPI Cards, Charts, Maps, and Tables
+- **Dashboard Design** — Multi-page Reporting and Interactive Filters
+- **Performance Reporting** — SLA, CSAT, and Operational KPIs
+
+### Analytical Skills
+
+- Customer Service Analytics
+- Business Intelligence
+- SLA Performance Analysis
+- Agent Productivity Evaluation
+- Trend and Comparative Analysis
+- Data-Driven Decision Support
+
+---
+
+## Project Takeaways
+
+This project demonstrates how customer support data can be transformed into actionable business insights through Power BI.
+
+By integrating ticket volume, SLA compliance, customer satisfaction, and agent performance metrics, the dashboard provides a comprehensive view of service operations.
+
+**Key Takeaway:** Effective customer service management requires balancing response efficiency, resolution performance, and customer satisfaction to support continuous operational improvement.
