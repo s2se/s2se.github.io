@@ -2,6 +2,7 @@
 title: Named Entity Recognition
 tags:  [Python] [spacy] 
 author: Sangeun
+published: false
 ---
 
 ```python

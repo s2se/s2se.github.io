@@ -2,6 +2,7 @@
 title: List Comprehension
 tags: [Python]
 author: Sangeun
+published: false
 ---
 
 ## List Comprehension

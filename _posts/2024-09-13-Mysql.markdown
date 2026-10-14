@@ -2,6 +2,7 @@
 title: Link with Java
 tags:  [mySQL] [Java] 
 author: Sangeun
+published: false
 ---
 
 ## Link between Mysql and Java

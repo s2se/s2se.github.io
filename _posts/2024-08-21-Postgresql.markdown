@@ -2,6 +2,7 @@
 title: Link with Python
 tags:  [Postgresql] 
 author: Sangeun
+published: false
 
 ---
 

@@ -2,7 +2,7 @@
 title: Feature Extraction- 2. WIKI
 description: Python, postgreSQL
 date:   2024-08-21 21:03:36 +0900
-
+published: false
 ---
 
 ## Description  

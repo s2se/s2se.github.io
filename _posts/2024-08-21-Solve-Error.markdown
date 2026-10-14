@@ -2,6 +2,7 @@
 title: Solving encoding Error
 tags:  [python] 
 author: Sangeun
+published: false
 ---
 
 ## Error
