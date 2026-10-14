@@ -16,7 +16,7 @@ comments:
 
 collections:
   pages:
-    output: false
+    output: true
   projects:
     output: true
   tags:
