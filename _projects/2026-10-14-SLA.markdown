@@ -76,10 +76,7 @@ Monitoring these differences can help businesses identify potential service bott
 
 ## 02. SLA Performance
 ![SLA Performance](https://github.com/user-attachments/assets/83fd9d75-0a33-437c-9ccf-77c581bb5be9)
-<<<<<<< HEAD
-=======
 
->>>>>>> d1cfee71d59fef976563165c6b567e4f27699faf
 
 ---
 
@@ -105,10 +102,7 @@ This analysis can support targeted coaching, workload management, and performanc
 
 ## 03. Agent Performance
 ![Agent Performance](https://github.com/user-attachments/assets/2791b331-c523-49df-a466-cf1f47970cb2)
-<<<<<<< HEAD
 
-=======
->>>>>>> d1cfee71d59fef976563165c6b567e4f27699faf
 
 ---
 
@@ -132,10 +126,7 @@ These insights help stakeholders monitor performance trends, identify emerging i
 
 ## 04. Performance Comparison
 ![Performance Comparison](https://github.com/user-attachments/assets/dce7a26f-ece3-433a-9200-37137e732c12)
-<<<<<<< HEAD
-=======
 
->>>>>>> d1cfee71d59fef976563165c6b567e4f27699faf
 
 ---
 
