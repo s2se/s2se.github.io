@@ -1,3 +1,4 @@
+
 ---
 title: Service Performance Intelligence Dashboard
 description: PowerBI
@@ -51,7 +52,7 @@ The difference between first response and resolution SLA compliance highlights a
 Understanding ticket distribution by topic can help support teams prioritize recurring issues and improve resource allocation.
 
 ## 01. Executive Summary
-![Executive Summary](assets/images/projects/Practice_page-0001.jpg)
+![Executive Summary]((https://github.com/user-attachments/assets/a74d9067-556e-4300-a0a1-8b43e0171911))
 
 ---
 
@@ -74,7 +75,8 @@ The analysis identifies variations in SLA compliance across ticket categories an
 Monitoring these differences can help businesses identify potential service bottlenecks and prioritize operational improvements.
 
 ## 02. SLA Performance
-![SLA Performance](assets/images/projects/Practice_page-0002.jpg)
+![SLA Performance](https://github.com/user-attachments/assets/83fd9d75-0a33-437c-9ccf-77c581bb5be9)
+
 
 ---
 
@@ -99,8 +101,7 @@ This analysis can support targeted coaching, workload management, and performanc
 
 
 ## 03. Agent Performance
-![Agent Performance](assets/images/projects/Practice_page-0003.jpg)
-
+![Agent Performance](https://github.com/user-attachments/assets/2791b331-c523-49df-a466-cf1f47970cb2)
 
 ---
 
@@ -123,7 +124,8 @@ Period-over-period comparisons provide visibility into changes in customer suppo
 These insights help stakeholders monitor performance trends, identify emerging issues, and make informed operational decisions.
 
 ## 04. Performance Comparison
-![Performance Comparison](assets/images/projects/Practice_page-0004.jpg)
+![Performance Comparison](https://github.com/user-attachments/assets/dce7a26f-ece3-433a-9200-37137e732c12)
+
 
 ---
 
