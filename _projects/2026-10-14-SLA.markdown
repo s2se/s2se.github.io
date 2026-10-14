@@ -52,7 +52,7 @@ The difference between first response and resolution SLA compliance highlights a
 Understanding ticket distribution by topic can help support teams prioritize recurring issues and improve resource allocation.
 
 ## 01. Executive Summary
-![Executive Summary]((https://github.com/user-attachments/assets/a74d9067-556e-4300-a0a1-8b43e0171911))
+![Executive Summary](https://github.com/user-attachments/assets/a74d9067-556e-4300-a0a1-8b43e0171911)
 
 ---
 
