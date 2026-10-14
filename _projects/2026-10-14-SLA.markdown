@@ -1,8 +1,9 @@
-
 ---
+
 title: Service Performance Intelligence Dashboard
 description: PowerBI
 date: 2026-10-12 21:03:36 +0900
+published: true
 
 ---
 
