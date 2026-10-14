@@ -53,11 +53,10 @@ The difference between first response and resolution SLA compliance highlights a
 Understanding ticket distribution by topic can help support teams prioritize recurring issues and improve resource allocation.
 
 ## 01. Executive Summary
-<img
-  src="/assets/images/projects/Practice_page-0001.jpg"
-  alt="Executive Summary"
-  width="900"
-  style="max-width: 100%; height: auto;"
+
+
+![Executive Summary]({{ '/assets/images/projects/Practice_page-0001.jpg' | relative_url }})
+
 >
 
 ---
@@ -81,12 +80,8 @@ The analysis identifies variations in SLA compliance across ticket categories an
 Monitoring these differences can help businesses identify potential service bottlenecks and prioritize operational improvements.
 
 ## 02. SLA Performance
-<img
-  src="/assets/images/projects/Practice_page-0002.jpg"
-  alt="SLA Performance"
-  width="900"
-  style="max-width: 100%; height: auto;"
->
+
+![SLA Performance]({{ '/assets/images/projects/Practice_page-0002.jpg' | relative_url }})
 
 ---
 
@@ -112,12 +107,7 @@ This analysis can support targeted coaching, workload management, and performanc
 
 ## 03. Agent Performance
 
-<img
-  src="/assets/images/projects/Practice_page-0003.jpg"
-  alt="Agent Performance"
-  width="900"
-  style="max-width: 100%; height: auto;"
->
+![Agent Performance]({{ '/assets/images/projects/Practice_page-0003.jpg' | relative_url }})
 
 ---
 
@@ -140,12 +130,9 @@ Period-over-period comparisons provide visibility into changes in customer suppo
 These insights help stakeholders monitor performance trends, identify emerging issues, and make informed operational decisions.
 
 ## 04. Performance Comparison
-<img
-  src="/assets/images/projects/Practice_page-0004.jpg"
-  alt="Performance Comparison"
-  width="900"
-  style="max-width: 100%; height: auto;"
->
+
+![Performance Comparison]({{ '/assets/images/projects/Practice_page-0004.jpg' | relative_url }})
+
 
 ---
 
